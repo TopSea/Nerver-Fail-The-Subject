@@ -1,3 +1,7 @@
+/*
+*文件名取英文
+*/
+
 #include<stdio.h>
 void mul99() {
     int i = 1;
