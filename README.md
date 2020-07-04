@@ -1,2 +1,2 @@
-# Nerver-Fail-The-Subject
-不挂科联盟
+# 不挂科联盟
+把文件名改成英文再用，别TM这都不会。
