@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: dbDesign.DBDesign
+Class-Path: mysql-connector-java-8.0.19.jar
+
